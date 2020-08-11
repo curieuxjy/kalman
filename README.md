@@ -2,4 +2,4 @@
 
 기본 예제코드는 matlab으로 써져있기 때문에 먼저 matlab code로 공부하고
 
-2회독 할때 python code로 바꿔서 
+2회독 할때 python code로 바꿔서 작성해보기
